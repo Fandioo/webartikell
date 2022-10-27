@@ -1,0 +1,70 @@
+body {
+	font: 20px/25px arial ,sans-serif;
+	background-image: url(udin.png);
+	color: #333;
+}
+.container{
+	width: 700px;
+	margin: auto;
+	background-color: #fff;
+	
+}
+.header {
+	padding: 25px;
+}
+.header .judul{
+	font-weight: bold;
+	font-style: normal;
+	font-size: 45px;
+}
+.header ul li{
+	font-style: none;
+	display: inline-block;
+	margin-right: 10px;
+	font-variant: all;
+	image-rendering: inherit;
+	color: orange;
+	font-weight: bold;
+}
+.header a {
+	text-decoration: none;
+	color: salmon;
+	padding: 5px;
+}
+.header a:hover {
+	background-color: blue;
+	color: white;
+	}
+.hero{
+	height:250px;
+	background-image:url(fandi.jpg);
+	background-size: cover;
+	background-position:0 -190: 
+	border-bottom:5px solid orange;
+	border-top:5px solid red;
+}
+.content .penulis{
+	font-size:12px;
+	margin-top:-8px;
+
+}
+.content .penulis a{
+	color:orange;
+	text-decoration: none;
+
+}
+.content p{
+	font-size:15px;
+	font-weight: bold;
+	margin-bottom:20px;
+}
+.footer{
+	background-color:black;
+
+}
+.footer .copy{
+		color:#eaeaea;
+	text-align: center;
+	font-size:12px;
+
+}
